@@ -4,9 +4,23 @@
 Created an Android Full-Stack App for Cruise companies to efficiently manage, track, manipulate, and share all Information for the company's Cruises!
 
 Utilized:
+- The external Retrofit Library -->  
+- Gson Library --> 
+- Cyberduck --> 
+- MySQL Workbenches --> to create Relational databases and PHP files.
 
-- Google Firebase Android project services
-- Amazon AWS SNS Topics, SQS Queues, and Lambda Functions that use SNS points to invoke the Firebase Android services which are connected with the Android Studio Project. 
-- Used Android Loaders, Fragments, Lifecycle methods, and implemented **_enter all classes/packages/interfaces/services used_**
 
 Going on a Cruise! Use the App!
+
+
+### Gif#1: Read All Passengers In The Passengers Table Within Database
+#### Reading ...
+<p align="center">
+  <img src="http://g.recordit.co/H2149G4Nsf.gif" alt="animated" />
+</p>
+
+### Gif#2: Inserting A New Passenger Record In The Database Table
+#### Insertingg ...
+<p align="center">
+  <img src="http://g.recordit.co/H2149G4Nsf.gif" alt="animated" />
+</p>
