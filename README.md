@@ -1,5 +1,5 @@
 # Aboard-The-Cruise-Ship
-#### View Sibling Projects --> [Abord The Cruise Ship ~ Using Local SQLite Databases](https://github.com/MuhammadMoeezKhan/Aboard-The-Cruise-Ship_Local)
+#### View Sibling Project --> [Abord The Cruise Ship ~ Using Local SQLite Databases](https://github.com/MuhammadMoeezKhan/Aboard-The-Cruise-Ship_Local)
 
 
 Created an Android Full-Stack App for Cruise companies to efficiently manage, track, manipulate, and share all Information for the company's Cruises!
