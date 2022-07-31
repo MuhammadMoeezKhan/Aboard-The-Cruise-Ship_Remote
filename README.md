@@ -20,6 +20,8 @@ Going on a Cruise! Use the App!
   <img src="http://g.recordit.co/H2149G4Nsf.gif" alt="animated" />
 </p>
 
+<br>
+
 ### Gif#2: Inserting A New Passenger Record In The Database Table
 #### Insertingg ...
 <p align="center">
