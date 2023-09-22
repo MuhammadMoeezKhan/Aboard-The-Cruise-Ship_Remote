@@ -8,9 +8,9 @@
 <br>
 
 The application utilizes:
-- **Retrofit Library** :arrow_forward:	  Is a type-safe REST client for Android which helps us consume RESTful web services
+- **Retrofit Library** :arrow_forward:	  Is a type-safe REST client for Android that helps us consume RESTful web services
 - **Gson Library** :arrow_forward:	 Java library that can be used to convert Java Objects into their JSON representation and vice versa
-- **Cyberduck** :arrow_forward:	 FTP client used to manage and track files being transfered over the internet (Used Here For PHP Files)
+- **Cyberduck** :arrow_forward:	 FTP client used to manage and track files being transferred over the internet (Used Here For PHP Files)
 - **MySQL Workbenches** :arrow_forward:	 To CRUD with Relational MySQL databases over a MySQL server.
 
 <br>
