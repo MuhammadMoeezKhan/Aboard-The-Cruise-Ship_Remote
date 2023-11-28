@@ -3,7 +3,7 @@
 
 <br>
 
-#### Created an Android Full-Stack App for Cruise companies to efficiently manage, track, manipulate, and share all Information for the company's Cruises!
+#### I created an Android Full-Stack App for Cruise companies to efficiently manage, track, manipulate, and share all Information for the company's Cruises!
 
 <br>
 
